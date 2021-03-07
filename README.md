@@ -1,2 +1,2 @@
-# Valentine Puzzle (in progress)
-VueJS Valentine's Day themed puzzle
+# Easter Puzzle (in progress)
+VueJS Easter themed puzzle
