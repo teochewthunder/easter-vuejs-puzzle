@@ -19,8 +19,8 @@ For this puzzle game, components should be listed in the VueJS format; namely in
 ## Methods
 - `reset`sets all data to their default values.
 - `startTimer`starts the timer.
-- `stopTimer`stops the timer and sets `timer` to *undefined*.
-- `getStyle`ensures that each piece has the correct *x* and *y* offset, and *rotation*, in CSS styles.
+- `stopTimer`stops the timer and sets `timer` to `undefined`.
+- `getStyle`ensures that each piece has the correct `x` and `y` offset, and `rotation`, in CSS styles.
 - `rotatePiece`rotates a piece. This is called whenever a piece is clicked.
 - `checkIncorrectPieces` checks `pieces` to ensure that all `rotation` properties are 0. If so, the game has been won.
 
